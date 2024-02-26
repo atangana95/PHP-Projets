@@ -1,0 +1,44 @@
+#aligne{
+    vertical-align: middle;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
+.center{
+  text-align: center;
+  border: 3px solid green;
+  background-image: url("logo/AtangoCure\ 1.jpg");
+}
+#wel{
+  text-align: center;
+  border: 3px solid green;
+  align-content: center;
+  align-items: center;
+}
+.regcenter{
+  text-align: center;
+  border: 3px solid green;
+  
+
+}
+.wid{
+  width: 80%;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+  height: 80;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.contain {
+  padding: 2px 16px;
+  width: 180;
+}
